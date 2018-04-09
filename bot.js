@@ -9,3 +9,5 @@ client.on('message', message => {
 if (message.content === '!fuck me'){
     message.reply('yes daddy!');
 });
+  
+client.login(process.env.BOT_TOKEN);
