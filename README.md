@@ -1,2 +1,0 @@
-# xXBotkaneXx
-xXHidekaneXx bot
